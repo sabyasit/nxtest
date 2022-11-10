@@ -11,5 +11,7 @@ export class TodosComponent implements OnInit {
     console.log(this.userService);
   }
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    console.log(1);
+  }
 }
