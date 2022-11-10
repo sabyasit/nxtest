@@ -11,6 +11,6 @@ export class UserService {
   }
 
   user() {
-
+    console.log(2)
   }
 }
